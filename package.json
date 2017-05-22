@@ -4,7 +4,8 @@
   "description": "Timestamp Microservice build for fCC Back End Cert",
   "main": "timestamp.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"start": "node timestamp.js"
   },
   "author": "",
   "license": "ISC",
